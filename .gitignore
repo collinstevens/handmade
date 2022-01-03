@@ -1,0 +1,4 @@
+handmade/.vs/
+!handmade/.vs/tasks.vs.json
+!handmade/.vs/launch.vs.json
+handmade/build/

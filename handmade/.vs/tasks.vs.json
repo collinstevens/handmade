@@ -7,6 +7,7 @@
       "command": "code/build.bat",
       "type": "launch",
       "contextType": "build"
-    }
+    } 
+    
   ]
 }

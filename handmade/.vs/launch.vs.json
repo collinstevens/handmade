@@ -3,11 +3,11 @@
   "defaults": {},
   "configurations": [
     {
-      "type": "native",
+      "type": "default",
       "name": "win32_handmade.exe",
-      "project": "build\\win32_handmade.exe",
+      "project": "w:\\handmade\\build\\win32_handmade.exe",
       "projectTarget": "",
-      "cwd": "\\handmade\\data"
+      "currentDir": "w:\\handmade\\data\\"
     }
   ]
 }

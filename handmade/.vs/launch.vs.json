@@ -5,9 +5,9 @@
     {
       "type": "default",
       "name": "win32_handmade.exe",
-      "project": "w:\\handmade\\build\\win32_handmade.exe",
+      "project": "build\\win32_handmade.exe",
       "projectTarget": "",
-      "currentDir": "w:\\handmade\\data\\"
+      "currentDir": "data"
     }
   ]
 }

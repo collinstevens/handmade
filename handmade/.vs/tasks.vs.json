@@ -7,11 +7,6 @@
       "command": "code/build.bat",
       "type": "launch",
       "contextType": "build"
-    },
-    {
-      "taskLabel": "task-handmade",
-      "appliesTo": "/",
-      "type": "launch"
     }
   ]
 }

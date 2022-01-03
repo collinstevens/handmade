@@ -3,7 +3,7 @@
   "tasks": [
     {
       "taskLabel": "Build",
-      "appliesTo": "/",
+      "appliesTo": "*",
       "command": "code/build.bat",
       "type": "launch",
       "contextType": "build"
